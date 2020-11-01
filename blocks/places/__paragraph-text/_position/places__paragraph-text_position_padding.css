@@ -26,7 +26,7 @@
     }
 
     .places__paragraph-text_position_padding:last-of-type {
-        padding-bottom: 0;
+        padding: 0 0 0 0;
     }
 
 }
