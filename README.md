@@ -7,7 +7,7 @@
 
 3. В проекте используются: Flexbox и Grid.
 
-4. Ссылка на проект gh-pages: https://rizametovd.github.io/russian-travel/
+4. Ссылка на проект gh-pages: https://rizametovd.github.io/russian-travel/index.html .
 
 ## Что дальше?
 1. Планов по доработке проекта нет.
