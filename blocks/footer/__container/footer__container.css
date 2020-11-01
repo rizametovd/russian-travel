@@ -1,0 +1,24 @@
+.footer__container {
+    padding: 64px 16px 24px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__container {
+        padding-top: 88px;
+        padding-right: 24px;
+        padding-left: 24px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+}
+
+@media screen and (min-width: 1024px) {
+    .footer__container {
+        padding-top: 92px;
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+}
+

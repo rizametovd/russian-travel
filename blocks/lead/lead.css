@@ -1,0 +1,25 @@
+.lead {
+    padding: 48px 0 64px;
+}
+
+@media screen and (min-width: 768px) {
+    .lead {
+        padding-bottom: 88px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead {
+        padding-right: 48px;
+        padding-left: 48px;
+        padding-bottom: 92px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead {
+        padding-top: 56px;
+        padding-right: 148px;
+        padding-left: 148px;
+    }
+}

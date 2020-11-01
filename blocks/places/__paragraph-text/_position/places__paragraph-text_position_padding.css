@@ -1,0 +1,32 @@
+.places__paragraph-text_position_padding {
+    padding: 25px 16px 0;
+}
+
+.places__paragraph-text_position_padding:first-of-type {
+    padding: 32px 16px 0;
+}
+    
+@media screen and (min-width: 768px) {
+    .places__paragraph-text_position_padding {
+        padding: 0;
+    }
+
+    .places__paragraph-text_position_padding:first-of-type {
+        padding: 0 0 25px;
+    }
+
+    .places__paragraph-text_position_padding:last-of-type {
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .places__paragraph-text_position_padding:first-of-type {
+        padding-bottom: 27px;
+    }
+
+    .places__paragraph-text_position_padding:last-of-type {
+        padding-bottom: 0;
+    }
+
+}

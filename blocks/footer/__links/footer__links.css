@@ -1,0 +1,16 @@
+.footer__links {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__links {
+        font-size: 16px;
+        line-height: 18px;
+        display: flex;
+    }
+}

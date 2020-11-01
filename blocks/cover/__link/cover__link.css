@@ -1,0 +1,11 @@
+.cover__link {
+    display: block;
+    height: 100%;
+    color: white;
+    text-decoration: none;
+}
+
+.cover__link:hover {
+    background-color: #2a2c2f;
+    opacity: 0.3;
+}

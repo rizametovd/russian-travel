@@ -1,0 +1,18 @@
+.footer__link-list {
+    padding-bottom: 32px;
+}
+
+.footer__link-list:last-of-type {
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__link-list {
+        margin-right: 18px;
+        padding-bottom: 0;
+    }
+
+    .footer__link-list:last-of-type {
+        margin-right: 0;
+    }
+}

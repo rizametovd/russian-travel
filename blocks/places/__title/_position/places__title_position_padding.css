@@ -1,0 +1,9 @@
+.places__title_position_padding {
+    padding: 0 16px 32px;
+}
+
+@media screen and (min-width: 768px) {
+    .places__title_position_padding {
+        padding: 0 10px 0 0;
+    }
+}
