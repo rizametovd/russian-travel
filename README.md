@@ -7,9 +7,6 @@
 Одностраничный сайт о путешествиях по России. </br>
 Ссылка на gh-pages: https://rizametovd.github.io/russian-travel/index.html .
 
-## Превью
-![Превью проекта](./public/preview.gif)
-
 ## Задача
 Создать адаптивный сайт под 4 разрешения экрана с брейкпоинтами: 320px, 768px, 1024px, 1280px.
 
@@ -17,3 +14,6 @@
 * HTML5
 * CSS (Grid, flexbox, позиционирование, Mobile first)
 * BEM
+
+## Превью
+![Превью проекта](./public/preview.gif)
